@@ -1,0 +1,11 @@
+Election Resuslts 
+ 
+total votes 3521001
+
+  Candidate  Vote Percentage    Votes
+0    Correy             0.20   704200
+1      Khan             0.63  2218231
+2        Li             0.14   492940
+3  O'Tooley             0.03   105630
+
+winner:  Khan
